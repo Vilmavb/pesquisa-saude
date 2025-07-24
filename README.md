@@ -15,3 +15,8 @@ Em desenvolvimento.
 ## Autoria
 Vilma Vilas Boas — Analista de Suporte e Estudante de Banco de Dados
 git add .
+On branch main
+nothing to commit, working tree clean
+
+git push -u origin main
+
