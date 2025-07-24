@@ -1,0 +1,20 @@
+# Ignorar arquivos do VS Code
+.vscode/
+
+# Ignorar arquivos temporários de sistema
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# Ignorar planilhas de backup
+*~.xlsx
+*~.csv
+
+# Ignorar arquivos de cache Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos grandes ou privados (adicione o nome exato, se houver)
+# exemplo: senha.txt, dados_sigilosos.csv
